@@ -3,7 +3,7 @@ import './Internships.css'
 
 const Internships=()=>{
     return(
-        <div>
+        <div className='section-container'>
             <h1>I am Internships Page</h1>
         </div>
     )

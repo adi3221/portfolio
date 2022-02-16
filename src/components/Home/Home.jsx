@@ -17,7 +17,7 @@ class Home extends Component{
     };
     render(){
         return(
-            <div className="home-container">
+            <div className="home-container" >
                 {this.state.showModal && <Modal closeModal={this.closeModal}/>}
                 <div className="header-text">
                     <h1>Welcome to my Portfolio</h1>

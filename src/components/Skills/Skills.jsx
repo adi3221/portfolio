@@ -3,7 +3,7 @@ import './Skills.css'
 
 const Skills=()=>{
     return(
-        <div>
+        <div className='section-container'>
             <h1>i am Skills Page</h1>
         </div>
     )

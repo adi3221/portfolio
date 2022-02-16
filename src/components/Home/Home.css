@@ -8,6 +8,7 @@
     padding: 100px 10%;
     min-height: 100vh;
     box-sizing: border-box;
+    /* align-content: center; */
 }
 .header-text{
     display: flex;
